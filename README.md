@@ -1,1 +1,10 @@
 # Sprint-Review-and-Retrospective
+
+How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+I interpret user needs by gathering feedback from stakeholders, identifying the significant features they request, and translating them into concrete user stories. User story development helps to break down large client needs into manageable, bite-sized pieces that can be developed and prioritized incrementally by the development team. Each story ensures the software is always centered on what users truly care about. For example, in our SNHU Travel project, we prioritized features like mobile responsiveness and secure booking forms based on evolving client needs, allowing us to redirect development work without losing focus.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I create programs incrementally by prioritizing the delivery of small, working portions of a project and building on those successes. I favor Agile methodologies such as sprint planning, backlog refinement, daily standups, and frequent sprint reviews to maintain momentum and be adaptive to change. Tools like Jira and GitHub enable me to plan work, track progress, and collaborate more effectively. I will still use Scrum principles in my future development work to enable teamwork, transparency, and quick adaptation to stakeholder feedback.
+
+What does it mean to be a good team member in software development?
+Good teamwork entails active communication, being transparent about work progress, and putting the team's objectives ahead of individual glory. It also means being accommodating, taking constructive criticism well, and helping to clear the path for others where possible. In the SNHU Travel project, good communication through standups and collaboration on Jira and Slack helped us stay on the same page. Trust, accountability, and a willingness to listen and adjust were key factors that made our team stronger and ultimately produced better software.
